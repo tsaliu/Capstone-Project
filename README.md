@@ -13,5 +13,5 @@ The requirements of the project are:
   4. Track the person's eye movement and re-direct the laser onto the pupil
   5. To decode, demodulate, the video stream and display
   
-  My contribution to this project is to handle all the telecommunication functions and also the reflective mirror stand with 2 axis of freedom with control of serial communications. The tracking portion is handled by Anas Zurkiyeh.
+  My contribution to this project is to handle all the telecommunication functions and also the reflective mirror stand with 2 axis of freedom with control of serial communications. The tracking portion is handled by Anas Zurkiyeh. The system that resemble a human eye is physically assembled and built in Mcgill University by their Mechanical Engineering student as their own capstone project. The control of that system is written by Noor Allami.
 
