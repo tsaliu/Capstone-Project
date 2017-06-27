@@ -1,4 +1,4 @@
-Platform: Raspberry Pi
+Platform: Raspberry Pi, OpenCV, C++
 
 Contributor: Anas Zurkiyeh
 
