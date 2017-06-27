@@ -27,3 +27,4 @@ There are 4 different attempts.
       - sending 0, 1 repeatly
       - sending one byte of information counting from decimal 0 to 255 (0 t FF in hex).
       - sending one pixel from the camera
+      
