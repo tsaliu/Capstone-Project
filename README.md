@@ -2,7 +2,11 @@
 Capstone Project with SUNLAB and iBIONICS at University of Ottawa
 
 The purpose of the project is to develop a prototype of avisual prosthesis system with electrical engineering's solution.
-The prosthesis mainly targets people who haev retinal degenerative diseases. The requirements of the project are:
+The prosthesis mainly targets people who haev retinal degenerative diseases. This project a be roughly divided into two major parts:
+  - Tracking eye's movement and re-directing the laser with data stream
+  - Wireless communication between two ends
+  
+The requirements of the project are:
   1. Be able to capture, down resolution, gray-scaled the video stream that a person should see
   2. To transmit the video stream through laser on a photovoltaic chip with any coding, modulation, algorithm nesscary
   3. Assemble a system that roughly resemble a person's eye, where the photovoltaic chip is attach onto the back of the eye
