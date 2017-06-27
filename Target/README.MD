@@ -1,4 +1,5 @@
-Platform: Arduino Uno
+Platform: Arduino Uno.
+
 Contributor: Noor Allami
 
 The function of the code is to rotate the target in 2 axis of freedom to resemble a human eye.
