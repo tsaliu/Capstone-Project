@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( objectTracking )
+find_package( OpenCV REQUIRED )
+add_executable( objectTracking objectTracking.cpp)
+target_link_libraries( objectTracking ${OpenCV_LIBS} )
