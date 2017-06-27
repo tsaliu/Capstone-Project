@@ -6,4 +6,4 @@ To change title of the image - in "start_camh.sh". In line "output_file=$f1-/hom
 
 To run the bash script from C/C++ "sysem("./xxx.sh")".
 
-To compile: sudo g++ $(Magick++-config --cxxflags --cppflags) -o test test.cpp $(Magick++-config --ldflags --libs)
+To compile: "sudo g++ $(Magick++-config --cxxflags --cppflags) -o test test.cpp $(Magick++-config --ldflags --libs)"
