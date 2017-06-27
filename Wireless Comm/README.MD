@@ -8,7 +8,7 @@ The functions are capture, gray-scaled the video stream into pixels. Then transm
 
 Every folder contains code for transmitter and receiver.
 
-Since Raspberr Pi does not have ADC built in, so we use mcp3008 and control with Spi, hence the Spi on Raspberry Pi needs tobe enabled. The connections are as followed:
+Since Raspberr Pi does not have ADC built in, so we use mcp3008 and control with Spi, hence the Spi on Raspberry Pi needs tobe enabled. The connections ar\\ e as followed:
 
 Raspberry Pi -- mcp3008
 
