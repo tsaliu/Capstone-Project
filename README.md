@@ -15,3 +15,12 @@ The requirements of the project are:
   
   My contribution to this project is to handle all the telecommunication functions and also the reflective mirror stand with 2 axis of freedom with control of serial communications. The tracking portion is handled by Anas Zurkiyeh. The system that resemble a human eye is physically assembled and built in Mcgill University by their Mechanical Engineering student as their own capstone project. The control of that system (Target) is written by Noor Allami.
 
+The demostration videos can be found on youtube.
+
+Wireless Transmission Portion:
+Sending Square Wave: https://www.youtube.com/watch?v=BaZyS1XvPZo
+Sending One Byte of Data: https://www.youtube.com/watch?v=BsoEZHoueK4
+Sending One Pixel: https://www.youtube.com/watch?v=UaLQ4VkY9-E
+
+30 Second Quick Demo: https://www.youtube.com/watch?v=bA8hH7Qq1-w
+Full Detailed Demo: https://www.youtube.com/watch?v=BR9noZThOIs
