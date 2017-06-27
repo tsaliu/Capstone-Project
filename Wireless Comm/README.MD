@@ -8,28 +8,18 @@ The functions are capture, gray-scaled the video stream into pixels. Then transm
 
 Every folder contains code for transmitter and receiver.
 
-Since Raspberr Pi does not have ADC built in, so we use mcp3008 and control with Spi, hence the Spi on Raspberry Pi needs tobe enabled. The connections ar <br /> e as followed:
+Since Raspberr Pi does not have ADC built in, so we use mcp3008 and control with Spi, hence the Spi on Raspberry Pi needs tobe enabled. The connections are as followed:
 
-Raspberry Pi -- mcp3008
-
-Vdd          -- 5V
-
-Vref         -- 5V
-
-AGND         -- GND
-
-CLK          -- SCLK
-
-Dout         -- MISO
-
-Din          -- MISI
-
-CS/SHDN      -- CSO (GPIO8)
-
-DGND         -- GND
-
+Raspberry Pi -- mcp3008<br />
+Vdd          -- 5V<br />
+Vref         -- 5V<br />
+AGND         -- GND<br />
+CLK          -- SCLK<br />
+Dout         -- MISO<br />
+Din          -- MISI<br />
+CS/SHDN      -- CSO (GPIO8)<br />
+DGND         -- GND<br />
 Currently using CH0, change with data[1] in the code
-
 
 There are 4 different attempts.
   1. Image processing using Magick++
