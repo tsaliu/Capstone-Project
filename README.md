@@ -2,9 +2,9 @@
 Capstone Project with SUNLAB and iBIONICS at University of Ottawa
 
   The purpose of the project is to develop a prototype of a visual prosthesis system with electrical engineering's solution.
-The prosthesis mainly targets people who have retinal degenerative diseases. This project a be roughly divided into two major parts:
+The prosthesis mainly targets people who have retinal degenerative diseases. This project can be roughly divided into two major parts:
   - Tracking eye's movement and re-directing the laser with data stream
-  - Wireless communication between two ends
+  - Wireless communication between two ends through laser over freespace
   
 The requirements of the project are:
   1. Be able to capture, down resolution, gray-scaled the video stream that a person should see
@@ -13,7 +13,7 @@ The requirements of the project are:
   4. Track the person's eye movement and re-direct the laser onto the pupil
   5. To decode, demodulate, the video stream and display
   
-  My contribution to this project is to handle all the telecommunication functions and also the reflective mirror stand with 2 axis of freedom with control of serial communications. The tracking portion is handled by Anas Zurkiyeh. The system that resemble a human eye is physically assembled and built in Mcgill University by their Mechanical Engineering student as their own capstone project. The control of that system (Target) is written by Noor Allami.
+  My contribution to this project is to handle all the telecommunication functions and also the control of the reflective mirror stand with 2 axis of freedom with 2 servo motors. The tracking portion is handled by Anas Zurkiyeh. The system that resemble a human eye is physically assembled and built in Mcgill University by their Mechanical Engineering students as their own capstone project. The control of that system (Target) is written by Noor Allami.
 
 Find me on LinkedIn: https://www.linkedin.com/in/tsaliu/
 
