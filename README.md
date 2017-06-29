@@ -1,7 +1,7 @@
 # Capstone-Project
 Capstone Project with SUNLAB and iBIONICS at University of Ottawa
 
-  The purpose of the project is to develop a prototype of avisual prosthesis system with electrical engineering's solution.
+  The purpose of the project is to develop a prototype of a visual prosthesis system with electrical engineering's solution.
 The prosthesis mainly targets people who have retinal degenerative diseases. This project a be roughly divided into two major parts:
   - Tracking eye's movement and re-directing the laser with data stream
   - Wireless communication between two ends
